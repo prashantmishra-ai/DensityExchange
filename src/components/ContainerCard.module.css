@@ -1,0 +1,150 @@
+.vectorIcon,
+.vectorIcon1,
+.vectorIcon2 {
+  position: absolute;
+  height: 100.45%;
+  width: 100%;
+  top: -0.25%;
+  right: -0.11%;
+  bottom: -0.2%;
+  left: 0.11%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.vectorIcon1,
+.vectorIcon2 {
+  height: 102.14%;
+  width: 103.58%;
+  top: -1.04%;
+  right: -1.77%;
+  bottom: -1.11%;
+  left: -1.81%;
+}
+.vectorIcon2 {
+  height: 1.45%;
+  width: 2.42%;
+  top: 29.23%;
+  right: 62.66%;
+  bottom: 69.32%;
+  left: 34.91%;
+}
+.ellipseDiv,
+.groupChild,
+.groupChild1,
+.groupInner,
+.groupItem {
+  position: absolute;
+  height: 0.34%;
+  width: 0.69%;
+  top: 24.42%;
+  right: 55.86%;
+  bottom: 75.25%;
+  left: 43.45%;
+  border-radius: 50%;
+  background-color: var(--color-mediumseagreen-100);
+  transform: rotate(5.63deg);
+  transform-origin: 0 0;
+}
+.ellipseDiv,
+.groupChild1,
+.groupInner,
+.groupItem {
+  top: 34.55%;
+  right: 60.93%;
+  bottom: 65.11%;
+  left: 38.39%;
+}
+.ellipseDiv,
+.groupChild1,
+.groupInner {
+  top: 38.89%;
+  right: 55.68%;
+  bottom: 60.77%;
+  left: 43.63%;
+  background-color: var(--white);
+}
+.ellipseDiv,
+.groupChild1 {
+  height: 0.2%;
+  width: 0.4%;
+  top: 37.82%;
+  right: 42.73%;
+  bottom: 61.98%;
+  left: 56.87%;
+}
+.groupChild1 {
+  height: 0.55%;
+  width: 1.12%;
+  top: 25.77%;
+  right: 41.5%;
+  bottom: 73.67%;
+  left: 57.38%;
+  background-color: var(--color-mediumseagreen-100);
+}
+.groupChild2,
+.groupChild3 {
+  position: absolute;
+  height: 3.09%;
+  width: 1.01%;
+  top: 58.99%;
+  right: 98.99%;
+  bottom: 37.93%;
+  left: 0;
+  border-radius: 50%;
+  background-color: var(--color-yellowgreen);
+  filter: blur(4.47px);
+  opacity: 0.4;
+}
+.groupChild3 {
+  height: 4.28%;
+  top: 23.11%;
+  right: -1.01%;
+  bottom: 72.6%;
+  left: 100%;
+  background-color: var(--white);
+  transform: rotate(180deg);
+  transform-origin: 0 0;
+  opacity: 0.5;
+}
+.isNowHere {
+  margin: 0;
+}
+.isNowHereContainer {
+  position: absolute;
+  top: 57.5%;
+  left: 0;
+  letter-spacing: -0.8px;
+  line-height: 40.2px;
+  font-weight: 300;
+}
+.groupIcon {
+  position: absolute;
+  height: 35.41%;
+  width: 43.22%;
+  top: 0;
+  right: 27.18%;
+  bottom: 64.59%;
+  left: 29.6%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.isNowHereForYouParent {
+  position: absolute;
+  height: 34.02%;
+  width: 64.04%;
+  top: 25.77%;
+  right: 17.98%;
+  bottom: 40.21%;
+  left: 17.98%;
+}
+.vectorParent {
+  position: relative;
+  width: 276.4px;
+  height: 560.3px;
+  text-align: center;
+  font-size: var(--font-size-14xl-5);
+  color: var(--white);
+  font-family: var(--mobile-caption-1-medium);
+}

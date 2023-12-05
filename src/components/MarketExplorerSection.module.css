@@ -1,0 +1,120 @@
+.exploreTheMarkets {
+  margin: 0;
+}
+.playground {
+  color: var(--electric-green-primary);
+}
+.exploreTheMarketsContainer {
+  position: relative;
+  letter-spacing: -2.1px;
+  line-height: 76.88px;
+}
+.searchForYour {
+  position: relative;
+  font-size: var(--font-size-5xl);
+  line-height: 32.85px;
+  color: var(--neutrals-grey-4);
+  display: inline-block;
+  width: 659.1px;
+}
+.exploreTheMarketsLikeItIsParent {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-5xl);
+  text-align: center;
+}
+.rectangleIcon {
+  position: absolute;
+  top: 368.3px;
+  left: 3.9px;
+  width: 1131px;
+  height: 303px;
+  object-fit: cover;
+}
+.chartIcon {
+  position: absolute;
+  top: 20.3px;
+  left: 122.9px;
+  width: 892.4px;
+  height: 445.8px;
+}
+.groupChild,
+.groupItem {
+  position: absolute;
+  top: 170.3px;
+  left: 137.9px;
+  width: 802px;
+  height: 430px;
+  opacity: 0.3;
+  mix-blend-mode: difference;
+}
+.groupItem {
+  top: 118.3px;
+  left: 104.9px;
+  width: 868px;
+  height: 482px;
+  opacity: 0.05;
+}
+.frameGroup {
+  position: absolute;
+  top: 224.2px;
+  left: 138px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-xl);
+}
+.textureIcon {
+  position: absolute;
+  height: 97.12%;
+  top: 0;
+  bottom: 2.88%;
+  left: calc(50% - 567.45px);
+  max-height: 100%;
+  width: 1087px;
+  object-fit: cover;
+  mix-blend-mode: overlay;
+}
+.rectangleParent {
+  position: relative;
+  width: 1134.9px;
+  height: 671.3px;
+  font-size: var(--mobile-subheading-medium-size);
+  color: var(--neutrals-grey-91);
+}
+.exploreMarkets {
+  position: relative;
+  text-transform: uppercase;
+}
+.exploreMarketsWrapper {
+  border-radius: var(--br-5xs);
+  background: linear-gradient(85.85deg, #d4f938 29.17%, #32d875);
+  box-shadow: 0 0 16px rgba(168, 239, 156, 0.8);
+  backdrop-filter: blur(10px);
+  height: 48px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-5xl) var(--padding-29xl);
+  box-sizing: border-box;
+  font-size: var(--mobile-title-3-medium-size);
+  color: var(--color-black);
+}
+.frameParent {
+  align-self: stretch;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  padding: var(--padding-121xl) 0;
+  gap: var(--gap-45xl);
+  text-align: left;
+  font-size: var(--font-size-53xl);
+  color: var(--white);
+  font-family: var(--mobile-caption-1-medium);
+}

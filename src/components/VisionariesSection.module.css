@@ -1,0 +1,135 @@
+.visionaries {
+  color: var(--electric-green-primary);
+}
+.meetTheVisionariesContainer {
+  position: relative;
+  letter-spacing: -2.1px;
+  line-height: 76.88px;
+  display: inline-block;
+  width: 775px;
+}
+.noComplexityOf {
+  position: relative;
+  font-size: var(--font-size-5xl);
+  line-height: 32.85px;
+  color: var(--neutrals-grey-4);
+  text-align: left;
+  display: none;
+}
+.meetTheVisionariesBehindDeParent {
+  gap: var(--gap-5xl);
+}
+.frameWrapper,
+.meetTheVisionariesBehindDeParent {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.frameIcon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 280px;
+  height: 239px;
+  overflow: hidden;
+  opacity: 0.55;
+  mix-blend-mode: multiply;
+}
+.aakashNeerajMittal,
+.ceoDensity {
+  position: absolute;
+  left: 30px;
+  letter-spacing: -1px;
+  line-height: 40px;
+}
+.aakashNeerajMittal {
+  top: 39.2px;
+  display: inline-block;
+  width: 239px;
+}
+.ceoDensity {
+  top: 123.2px;
+  font-size: var(--font-size-xl);
+  color: var(--neutrals-grey-6);
+}
+.image95Icon,
+.textureIcon {
+  position: absolute;
+  object-fit: cover;
+}
+.textureIcon {
+  height: 101.25%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: -1.25%;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  mix-blend-mode: overlay;
+}
+.image95Icon {
+  top: 93.2px;
+  left: 61px;
+  width: 363px;
+  height: 327px;
+}
+.uillinkedinIcon {
+  position: absolute;
+  top: 304.2px;
+  left: 29px;
+  width: 32px;
+  height: 32px;
+  overflow: hidden;
+}
+.frameContainer {
+  position: relative;
+  background-color: var(--neutrals-grey-8);
+  width: 323px;
+  height: 360px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.bhupendra {
+  margin: 0;
+}
+.image94Icon,
+.image96Icon {
+  position: absolute;
+  top: 109.2px;
+  left: 108px;
+  width: 315px;
+  height: 315px;
+  object-fit: cover;
+}
+.image96Icon {
+  top: 117.2px;
+  left: 91px;
+  width: 292px;
+  height: 266px;
+}
+.frameGroup,
+.frameParent {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-5xl);
+  text-align: left;
+  font-size: var(--font-size-13xl);
+}
+.frameParent {
+  align-self: stretch;
+  background-color: var(--neutrals-grey-9);
+  overflow: hidden;
+  flex-direction: column;
+  align-items: center;
+  padding: var(--padding-121xl) 0;
+  gap: var(--gap-63xl);
+  text-align: center;
+  font-size: var(--font-size-53xl);
+  color: var(--white);
+  font-family: var(--mobile-caption-1-medium);
+}

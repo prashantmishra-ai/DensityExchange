@@ -1,0 +1,42 @@
+.derivatesMadeSimple {
+  margin: 0;
+}
+.easy {
+  color: var(--electric-green-primary);
+}
+.steps {
+  color: var(--white);
+}
+.derivatesMadeSimpleContainer {
+  position: relative;
+  letter-spacing: -0.02em;
+  line-height: 80px;
+  display: inline-block;
+  width: 936px;
+  text-shadow: 0 0 4px rgba(0, 0, 0, 0.25);
+}
+.frameChild {
+  position: relative;
+  width: 1134px;
+  height: 1px;
+  opacity: 0.4;
+}
+.derivatesMadeSimpleIn3EasParent,
+.frameParent {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: var(--gap-21xl);
+  text-align: left;
+  font-size: var(--font-size-21xl);
+}
+.derivatesMadeSimpleIn3EasParent {
+  align-self: stretch;
+  padding: var(--padding-101xl) 0;
+  gap: var(--gap-101xl);
+  text-align: center;
+  font-size: var(--font-size-53xl);
+  color: var(--white);
+  font-family: var(--mobile-caption-1-medium);
+}

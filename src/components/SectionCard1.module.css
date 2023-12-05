@@ -1,0 +1,132 @@
+.backedByThe {
+  position: relative;
+  letter-spacing: -2.1px;
+  line-height: 76.88px;
+}
+.frameWrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.image109Icon {
+  position: relative;
+  width: 184.6px;
+  height: 40px;
+  object-fit: cover;
+}
+.image110Icon,
+.image111Icon,
+.image112Icon {
+  position: relative;
+  width: 124.2px;
+  height: 100px;
+  object-fit: cover;
+}
+.image111Icon,
+.image112Icon {
+  width: 108.2px;
+  height: 64px;
+}
+.image112Icon {
+  width: 182px;
+}
+.image113Icon,
+.image114Icon,
+.image115Icon {
+  position: relative;
+  width: 120px;
+  height: 120.9px;
+  object-fit: cover;
+}
+.image114Icon,
+.image115Icon {
+  width: 236px;
+  height: 24px;
+}
+.image115Icon {
+  width: 219.7px;
+  height: 40px;
+}
+.image109Parent {
+  width: 954px;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  gap: var(--gap-61xl);
+}
+.utsavsomaniBackgroundRemoved {
+  position: relative;
+  width: 120px;
+  height: 138px;
+  object-fit: cover;
+}
+.utsavSomani {
+  position: relative;
+}
+.utsavsomaniBackgroundRemovedParent {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-base);
+  text-align: left;
+}
+.adityaNagarsheth {
+  margin-block-start: 0;
+  margin-block-end: 0.72px;
+}
+.perpetualValuePartners {
+  margin: 0;
+  font-size: var(--font-size-smi-8);
+  line-height: 160%;
+  font-weight: 500;
+  color: var(--color-slategray);
+}
+.picABackgroundRemoved1Parent {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-base);
+}
+.imageBackgroundRemoved1 {
+  position: relative;
+  width: 120px;
+  height: 138.6px;
+  object-fit: cover;
+}
+.frameContainer,
+.frameGroup,
+.frameParent {
+  align-self: stretch;
+  display: flex;
+  align-items: center;
+}
+.frameContainer {
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: var(--gap-21xl);
+}
+.frameGroup,
+.frameParent {
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.frameGroup {
+  padding: 0 var(--padding-197xl);
+  gap: var(--gap-61xl);
+  font-size: 20.48px;
+}
+.frameParent {
+  overflow: hidden;
+  padding: var(--padding-121xl) 0;
+  gap: var(--gap-63xl);
+  text-align: center;
+  font-size: var(--font-size-53xl);
+  color: var(--white);
+  font-family: var(--mobile-caption-1-medium);
+}

@@ -1,0 +1,37 @@
+.same {
+  margin: 0;
+}
+.sameStrategies {
+  position: relative;
+}
+.sameStrategiesWrapper {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.frameChild {
+  position: relative;
+  width: 1px;
+  height: 88px;
+}
+.frameParent {
+  border-radius: var(--br-5xs);
+  background-color: var(--color-gray-400);
+  backdrop-filter: blur(52.5px);
+  border: 1px solid var(--color-gray-300);
+  box-sizing: border-box;
+  width: 1140px;
+  height: 171px;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  text-align: center;
+  font-size: var(--font-size-13xl);
+  color: var(--white);
+  font-family: var(--mobile-caption-1-medium);
+}

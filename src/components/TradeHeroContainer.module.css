@@ -1,0 +1,151 @@
+.itsTimeTo {
+  margin: 0;
+}
+.future {
+  background: linear-gradient(96.58deg, #78e65d, #d5fa39);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.future1,
+.itsTimeToContainer {
+  position: absolute;
+  top: 0;
+  left: 0;
+  letter-spacing: -4.19px;
+  line-height: 100px;
+}
+.future1 {
+  top: 50.5%;
+  left: 41.41%;
+  background: linear-gradient(
+    96.58deg,
+    rgba(212, 249, 56, 0.7),
+    rgba(213, 250, 57, 0.7)
+  );
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  filter: blur(33.52px);
+}
+.itsTimeToTradeTheFutureParent {
+  position: relative;
+  width: 693px;
+  height: 202px;
+  font-size: var(--font-size-77xl);
+}
+.derivatesMadeSimple {
+  position: relative;
+  line-height: 36px;
+  color: var(--color-gray-100);
+  display: none;
+}
+.tradeBtcEth {
+  position: relative;
+  text-transform: capitalize;
+  color: var(--neutrals-grey-4);
+}
+.groupParent {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: var(--gap-21xl);
+}
+.shadowIcon {
+  opacity: 0.7;
+}
+.iphone14ProSpaceBlackMock1,
+.mainIcon,
+.shadowIcon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 261.3px;
+  height: 529.7px;
+  object-fit: cover;
+}
+.iphone14ProSpaceBlackMock1 {
+  top: 10.1px;
+  left: 12.4px;
+  width: 235.4px;
+  height: 508px;
+  mix-blend-mode: normal;
+}
+.iphone14ProSpaceBlackMock {
+  position: absolute;
+  top: 73.6px;
+  left: 0;
+  width: 261.3px;
+  height: 529.7px;
+}
+.shadowIcon1 {
+  opacity: 0.7;
+}
+.iphone14ProSpaceBlackMock3,
+.mainIcon1,
+.shadowIcon1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 260.4px;
+  height: 527.8px;
+  object-fit: cover;
+}
+.iphone14ProSpaceBlackMock3 {
+  top: 10.1px;
+  left: 12.4px;
+  width: 234.6px;
+  height: 506.2px;
+  mix-blend-mode: normal;
+}
+.iphone14ProSpaceBlackMock2 {
+  position: absolute;
+  top: 75px;
+  left: 519.2px;
+  width: 260.4px;
+  height: 527.8px;
+}
+.shadowIcon2 {
+  opacity: 0.7;
+}
+.iphone14ProSpaceBlackMock5,
+.mainIcon2,
+.shadowIcon2 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 329.9px;
+  height: 668.7px;
+  object-fit: cover;
+}
+.iphone14ProSpaceBlackMock5 {
+  top: 12.8px;
+  left: 15.7px;
+  width: 297.2px;
+  height: 641.4px;
+  mix-blend-mode: normal;
+}
+.iphone14ProSpaceBlackMock4 {
+  position: absolute;
+  top: 0;
+  left: 225.8px;
+  width: 329.9px;
+  height: 668.7px;
+}
+.iphone14ProSpaceBlackMockParent {
+  position: relative;
+  width: 779.6px;
+  height: 668.7px;
+}
+.hero {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-61xl) 0 var(--padding-101xl);
+  gap: var(--gap-57xl);
+  text-align: center;
+  font-size: var(--font-size-5xl);
+  color: var(--white);
+  font-family: var(--mobile-caption-1-medium);
+}

@@ -1,0 +1,57 @@
+.frameIcon {
+  width: 100px;
+  height: 24px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.career,
+.frameIcon {
+  position: relative;
+}
+.careerParent {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-15xl);
+}
+.tradeNow {
+  position: relative;
+  text-transform: uppercase;
+}
+.frameParent,
+.topNav,
+.tradeNowWrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+.tradeNowWrapper {
+  border-radius: var(--br-5xs);
+  background: linear-gradient(85.85deg, #d4f938 29.17%, #32d875);
+  box-shadow: 0 0 16px rgba(168, 239, 156, 0.8);
+  backdrop-filter: blur(10px);
+  height: 48px;
+  justify-content: center;
+  padding: var(--padding-base) var(--padding-13xl);
+  box-sizing: border-box;
+  font-size: var(--font-size-base);
+  color: var(--color-black);
+}
+.frameParent,
+.topNav {
+  justify-content: flex-end;
+  gap: var(--gap-37xl);
+}
+.topNav {
+  align-self: stretch;
+  background-color: var(--color-darkolivegreen);
+  backdrop-filter: blur(40px);
+  justify-content: center;
+  padding: var(--padding-5xl) var(--padding-197xl);
+  gap: var(--gap-368xl);
+  text-align: left;
+  font-size: var(--mobile-subheading-medium-size);
+  color: var(--color-gray-100);
+  font-family: var(--mobile-caption-1-medium);
+}

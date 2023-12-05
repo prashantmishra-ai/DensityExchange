@@ -1,0 +1,140 @@
+.dontTakeOur {
+  position: relative;
+  letter-spacing: -2.1px;
+  line-height: 76.88px;
+}
+.hearItFrom {
+  position: relative;
+  font-size: 22.37px;
+  line-height: 32.85px;
+  color: var(--neutrals-grey-8);
+  display: inline-block;
+  width: 659.1px;
+}
+.dontTakeOurWordForItParent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-5xl);
+}
+.asSomeoneWhos {
+  position: absolute;
+  top: 40px;
+  left: 29px;
+  line-height: 28px;
+  display: inline-block;
+  width: 303px;
+}
+.prakash {
+  margin: 0;
+}
+.prakashJamatia {
+  position: absolute;
+  top: 278px;
+  left: 29px;
+  font-size: var(--font-size-9xl);
+  letter-spacing: -1px;
+  line-height: 0%;
+  color: var(--white1);
+}
+.founderTradeshala {
+  position: absolute;
+  top: 346px;
+  left: 29px;
+  font-size: var(--font-size-base);
+  font-weight: 500;
+}
+.frameIcon,
+.textureIcon {
+  position: absolute;
+  max-height: 100%;
+}
+.textureIcon {
+  height: 144.89%;
+  top: 0;
+  bottom: -44.89%;
+  left: calc(50% - 181px);
+  width: 751px;
+  object-fit: cover;
+  mix-blend-mode: overlay;
+}
+.frameIcon {
+  height: 60.67%;
+  top: 0.11%;
+  right: 0;
+  bottom: 39.22%;
+  width: 304.2px;
+  overflow: hidden;
+  opacity: 0.55;
+  mix-blend-mode: soft-light;
+}
+.unsplashieebwgy6laIcon {
+  position: absolute;
+  top: 277px;
+  left: 203px;
+  width: 186px;
+  height: 187px;
+  object-fit: cover;
+}
+.frameChild {
+  position: absolute;
+  height: 23.07%;
+  width: 30.03%;
+  top: 6%;
+  right: 7.18%;
+  bottom: 70.93%;
+  left: 62.79%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  opacity: 0.04;
+}
+.asSomeoneWhosAlwaysLookinParent {
+  flex: 1;
+  position: relative;
+  background-color: var(--color-whitesmoke);
+  height: 450px;
+  overflow: hidden;
+}
+.unsplasho5nbw8gtnmcIcon {
+  position: absolute;
+  top: 235px;
+  left: 169px;
+  width: 216px;
+  height: 248px;
+  object-fit: cover;
+}
+.unsplashzhvm3xiohoeIcon {
+  position: absolute;
+  top: 228px;
+  right: -40px;
+  width: 239px;
+  height: 239px;
+  object-fit: cover;
+}
+.frameGroup,
+.frameParent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-xl);
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--neutrals-grey-61);
+}
+.frameParent {
+  background-color: var(--white);
+  overflow: hidden;
+  flex-direction: column;
+  align-items: center;
+  padding: var(--padding-98xl) var(--padding-141xl);
+  gap: var(--gap-45xl);
+  text-align: center;
+  font-size: var(--font-size-53xl);
+  color: var(--white1);
+  font-family: var(--mobile-caption-1-medium);
+}

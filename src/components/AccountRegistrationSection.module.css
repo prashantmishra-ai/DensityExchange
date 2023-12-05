@@ -1,0 +1,72 @@
+.frameChild,
+.frameItem {
+  position: relative;
+  width: 646px;
+  height: 646px;
+}
+.frameItem {
+  width: 119.6px;
+  height: 120px;
+}
+.createAnAccount {
+  position: relative;
+  font-weight: 500;
+}
+.registerComplete {
+  position: relative;
+  font-size: var(--font-size-5xl);
+  line-height: 32px;
+  color: var(--color-darkgray-100);
+  display: inline-block;
+  width: 384px;
+}
+.createAnAccountParent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+  gap: var(--gap-base);
+}
+.tradeNow {
+  position: relative;
+  text-transform: uppercase;
+}
+.tradeNowWrapper {
+  border-radius: var(--br-5xs);
+  background: linear-gradient(85.85deg, #d4f938 29.17%, #32d875);
+  box-shadow: 0 0 16px rgba(168, 239, 156, 0.8);
+  backdrop-filter: blur(10px);
+  width: 216px;
+  height: 48px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-5xl) var(--padding-29xl);
+  box-sizing: border-box;
+  font-size: var(--mobile-title-3-medium-size);
+  color: var(--color-black);
+}
+.frameParent,
+.groupContainer {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+  gap: var(--gap-17xl);
+}
+.groupContainer {
+  justify-content: flex-start;
+  gap: var(--gap-3xs);
+}
+.groupParent {
+  width: 1442px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  text-align: left;
+  font-size: var(--font-size-21xl);
+  color: var(--white);
+  font-family: var(--mobile-caption-1-medium);
+}

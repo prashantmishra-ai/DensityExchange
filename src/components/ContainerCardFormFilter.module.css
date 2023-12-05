@@ -1,0 +1,117 @@
+.frameChild {
+  position: relative;
+  width: 32px;
+  height: 32px;
+}
+.bitcoin,
+.btcusdt {
+  position: relative;
+  letter-spacing: 0.2px;
+  line-height: 20px;
+  font-weight: 500;
+}
+.btcusdt {
+  font-size: var(--mobile-caption-1-medium-size);
+  line-height: 17px;
+  color: var(--neutrals-grey-41);
+}
+.bitcoinParent,
+.groupParent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-11xs);
+}
+.groupParent {
+  flex-direction: row;
+  align-items: center;
+  gap: var(--gap-base);
+}
+.vectorIcon {
+  position: relative;
+  width: 74.3px;
+  height: 28.3px;
+}
+.frameGroup {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+}
+.a,
+.price {
+  position: relative;
+  letter-spacing: 0.2px;
+  line-height: 15px;
+  font-weight: 500;
+}
+.a {
+  font-size: var(--mobile-title-3-medium-size);
+  line-height: 28px;
+  color: var(--neutrals-grey-91);
+  text-decoration: none;
+}
+.priceParent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.b {
+  position: relative;
+  font-size: var(--mobile-caption-1-medium-size);
+  letter-spacing: 0.2px;
+  line-height: 17px;
+  font-weight: 500;
+  color: var(--neutrals-grey-91);
+}
+.volParent {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-5xs);
+}
+.div {
+  position: relative;
+  font-size: var(--mobile-caption-1-medium-size);
+  letter-spacing: 0.2px;
+  line-height: 17px;
+  font-weight: 500;
+  color: var(--sematics-green);
+}
+.frameDiv {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: var(--gap-5xs);
+}
+.frameContainer {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: baseline;
+  justify-content: space-between;
+  font-size: var(--mobile-caption-3-size);
+  color: var(--neutrals-grey-41);
+}
+.frameParent {
+  border-radius: var(--br-5xs);
+  background-color: var(--neutrals-grey-2);
+  box-shadow: 0 0 10px rgba(255, 255, 255, 0.5);
+  width: 270px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-base) var(--padding-base) var(--padding-5xs);
+  box-sizing: border-box;
+  gap: var(--gap-lgi);
+  text-align: left;
+  font-size: var(--mobile-subheading-medium-size);
+  color: var(--neutrals-grey-91);
+  font-family: var(--mobile-caption-1-medium);
+}
